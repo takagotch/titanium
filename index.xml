@@ -1,0 +1,6 @@
+<Alloy>
+	<Window title="Titanium and Alloy">
+		<Button onClick="handleClick" id="myButton">Click me!</Button>
+	</Window>
+</Alloy>
+
